@@ -1,0 +1,32 @@
+{
+    "16920": {
+        "info": {
+            "P1": "9.07",
+            "P2": "5.63",
+            "humidity": "51.19",
+            "latitude": "57.07200000",
+            "location_id": "16920",
+            "longitude": "-2.79700000",
+            "pressure": "121774.50",
+            "sensor_id": "30105",
+            "sensor_type": "BME280",
+            "temperature": "-146.36",
+            "timestamp": "2022-02-17T23:58:37"
+        }
+    },
+    "27745": {
+        "info": {
+            "P1": "3.80",
+            "P2": "1.30",
+            "humidity": "nan",
+            "latitude": "57.100",
+            "location_id": "27745",
+            "longitude": "-2.920",
+            "pressure": "76748.34",
+            "sensor_id": "42082",
+            "sensor_type": "SDS011",
+            "temperature": "-143.83",
+            "timestamp": "2022-02-17T23:58:31"
+        }
+    }
+}

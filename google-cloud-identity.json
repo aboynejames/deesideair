@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "your identity name",
+  "private_key_id": "private_key_id",
+  "private_key": "-----BEGIN PRIVATE KEY-----\n-----END PRIVATE KEY-----\n",
+  "client_email": "role_task_name@identity_name.iam.gserviceaccount.com",
+  "client_id": "11111111111111111111",
+  "auth_uri": "auth_uri_for_google",
+  "token_uri": "oauth2_uri_token",
+  "auth_provider_x509_cert_url": "oauth2_url_cert",
+  "client_x509_cert_url": "url_for_your_identity_name_cert"
+}
